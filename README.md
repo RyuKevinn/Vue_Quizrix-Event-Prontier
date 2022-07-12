@@ -8,19 +8,20 @@
 ![스크린샷 2022-07-12 오후 2 55 51](https://user-images.githubusercontent.com/96170774/178418866-e743f466-2bf8-49a4-9da0-108de739a265.png)
 
 
-pages 
+<h3>pages</h3> 
+
   - event 
       - :pontier
-
-components
+<hr>
+<h3>components</h3>
   - index.vue
   - ProntierRegist.vue
   - ProntierList.vue
-
-layouts
+<hr>
+<h3>layouts</h3>
   - event-layout.vue
-
-Url 구조 
+<hr>
+<h3>Url 구조</h3> 
 <ul>
   <li>https://********.com/event/prontier</li>
   <li>https://********.com/event/regist</li>
