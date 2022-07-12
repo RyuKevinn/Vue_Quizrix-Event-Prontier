@@ -29,3 +29,5 @@
   <li>https://********.com/event/regist-list</li>
 </ul>
 
+<hr>
+[screencapture-local-quizrix-event-prontier-2022-07-12-14_17_35.pdf](https://github.com/RyuKevinn/Vue_Quizrix-Event-Prontier/files/9089937/screencapture-local-quizrix-event-prontier-2022-07-12-14_17_35.pdf)
