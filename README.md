@@ -31,4 +31,30 @@
 
 <hr>
 
-[screencapture-local-quizrix-event-prontier-2022-07-12-14_17_35.pdf](https://github.com/RyuKevinn/Vue_Quizrix-Event-Prontier/files/9089937/screencapture-local-quizrix-event-prontier-2022-07-12-14_17_35.pdf)
+<h2> ProntierRegist.vue </h2>
+
+![스크린샷 2022-07-12 오후 2 22 41](https://user-images.githubusercontent.com/96170774/178419872-55cc3044-0437-4147-9ffa-4b47a01e14e7.png)
+
+![스크린샷 2022-07-12 오후 2 23 07](https://user-images.githubusercontent.com/96170774/178419938-53f5562a-2f0d-4cf0-a86e-312bdff19c64.png)
+
+  v-for 를 사용하여 data 내에 있는 자료들 구현
+
+
+![스크린샷 2022-07-12 오후 2 23 36](https://user-images.githubusercontent.com/96170774/178420047-512dc118-d335-4d40-a698-ed1f4cc158e9.png)
+
+![스크린샷 2022-07-12 오후 2 24 51](https://user-images.githubusercontent.com/96170774/178420100-478eac88-97b4-40e0-86ad-2b412563a6f4.png)
+
+![스크린샷 2022-07-12 오후 2 25 09](https://user-images.githubusercontent.com/96170774/178420274-585a0941-6439-4ac3-8c0a-08caa1fbd002.png)
+
+![스크린샷 2022-07-12 오후 2 25 33](https://user-images.githubusercontent.com/96170774/178420333-69491e18-4fbe-4cc4-8fd8-06335376996a.png)
+
+![스크린샷 2022-07-12 오후 2 25 55](https://user-images.githubusercontent.com/96170774/178420572-2102b7a0-d4e6-40f5-9f96-4aef0d931d0c.png)
+
+![스크린샷 2022-07-12 오후 2 26 22](https://user-images.githubusercontent.com/96170774/178420593-4f57afb9-716f-4221-8e3b-0be0601fef6e.png)
+
+data 내부에 있는 자료들을 v-model 로 연결하여 submit 이벤트 발생 시 유효성 검사 실행
+유효성 검사 Nav switch-case 문을 통해서 param 값에 따라 해당 함수에 맞게 연결
+1차 null 값 판단 후 정규식 혹은 함수를 사용한 2차 유효성 검사
+검사 후 api에 데이터 보내기
+
+![스크린샷 2022-07-12 오후 2 27 12](https://user-images.githubusercontent.com/96170774/178420774-46c43163-7d00-4125-b4d2-3a23b87093a3.png)
