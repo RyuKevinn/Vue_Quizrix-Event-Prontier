@@ -16,8 +16,11 @@
 <hr>
 <h3>components</h3>
   - index.vue
+  
   - ProntierRegist.vue
+  
   - ProntierList.vue
+  
 <hr>
 <h3>layouts</h3>
   - event-layout.vue
