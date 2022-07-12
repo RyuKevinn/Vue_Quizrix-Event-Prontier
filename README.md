@@ -58,3 +58,10 @@
 <p>검사 후 api에 데이터 보내기</p>
 
 ![스크린샷 2022-07-12 오후 2 27 12](https://user-images.githubusercontent.com/96170774/178420774-46c43163-7d00-4125-b4d2-3a23b87093a3.png)
+
+
+<h2> ProntierList.vue </h2>
+<p>Regist 완료된 정보들을 api 호출로 데이터 리스트업</p>
+
+![스크린샷 2022-07-12 오후 2 26 46](https://user-images.githubusercontent.com/96170774/178421217-29ae3133-ce29-40f3-a99e-c78830de444b.png)
+
