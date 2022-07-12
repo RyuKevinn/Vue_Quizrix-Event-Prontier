@@ -12,7 +12,7 @@
 <h3>pages</h3> 
 
   - event 
-      - :pontier
+      - :prontier
 <hr>
 <h3>components</h3>
 
