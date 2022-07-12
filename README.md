@@ -52,9 +52,9 @@
 
 ![스크린샷 2022-07-12 오후 2 26 22](https://user-images.githubusercontent.com/96170774/178420593-4f57afb9-716f-4221-8e3b-0be0601fef6e.png)
 
-data 내부에 있는 자료들을 v-model 로 연결하여 submit 이벤트 발생 시 유효성 검사 실행
-유효성 검사 Nav switch-case 문을 통해서 param 값에 따라 해당 함수에 맞게 연결
-1차 null 값 판단 후 정규식 혹은 함수를 사용한 2차 유효성 검사
-검사 후 api에 데이터 보내기
+<p>data 내부에 있는 자료들을 v-model 로 연결하여 submit 이벤트 발생 시 유효성 검사 실행</p>
+<p>유효성 검사 Nav switch-case 문을 통해서 param 값에 따라 해당 함수에 맞게 연결</p>
+<p>1차 null 값 판단 후 정규식 혹은 함수를 사용한 2차 유효성 검사</p>
+<p>검사 후 api에 데이터 보내기</p>
 
 ![스크린샷 2022-07-12 오후 2 27 12](https://user-images.githubusercontent.com/96170774/178420774-46c43163-7d00-4125-b4d2-3a23b87093a3.png)
