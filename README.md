@@ -1,17 +1,29 @@
 # Vue_Quizrix-Event-Prontier
-![스크린샷 2022-07-12 오후 2 20 25](https://user-images.githubusercontent.com/96170774/178417605-d9eb3ee7-c216-40d4-8d2a-8b0c64cc8a27.png)
-![스크린샷 2022-07-12 오후 2 20 35](https://user-images.githubusercontent.com/96170774/178417610-29b1776f-899e-473e-b1aa-e16e0589c282.png)
-![스크린샷 2022-07-12 오후 2 21 31](https://user-images.githubusercontent.com/96170774/178417614-bdbc4868-d6ec-445c-9a7c-82640c682758.png)
-![스크린샷 2022-07-12 오후 2 22 41](https://user-images.githubusercontent.com/96170774/178417618-2e190288-cab8-4859-8896-2903fc184ac2.png)
-![스크린샷 2022-07-12 오후 2 23 07](https://user-images.githubusercontent.com/96170774/178417622-5711315b-32df-438f-a072-f202f4e0494d.png)
-![스크린샷 2022-07-12 오후 2 23 36](https://user-images.githubusercontent.com/96170774/178417626-4136d4e1-f366-4f1c-b7fe-df2f2e1011e0.png)
-![스크린샷 2022-07-12 오후 2 23 57](https://user-images.githubusercontent.com/96170774/178417631-d868f39b-2a14-40dc-b2d2-ab594385b2cb.png)
-![스크린샷 2022-07-12 오후 2 24 06](https://user-images.githubusercontent.com/96170774/178417632-75e35973-7f60-4c0f-bab5-097f983a2c35.png)
-![스크린샷 2022-07-12 오후 2 24 51](https://user-images.githubusercontent.com/96170774/178417637-6c000f13-1cc1-466f-8e95-f44e36446e1d.png)
-![스크린샷 2022-07-12 오후 2 25 09](https://user-images.githubusercontent.com/96170774/178417640-0824e976-e67d-4ed9-a418-fe77f5d4727b.png)
-![스크린샷 2022-07-12 오후 2 25 33](https://user-images.githubusercontent.com/96170774/178417646-4e725503-f8ec-4338-9be9-91af44d3180c.png)
-![스크린샷 2022-07-12 오후 2 25 55](https://user-images.githubusercontent.com/96170774/178417650-83fdeb74-bc9f-4505-a47a-7ee9d6172778.png)
-![스크린샷 2022-07-12 오후 2 26 22](https://user-images.githubusercontent.com/96170774/178417653-ad07779b-1b3b-4020-9302-9d8726c96434.png)
-![스크린샷 2022-07-12 오후 2 26 46](https://user-images.githubusercontent.com/96170774/178417658-082c18fe-5b4e-406b-8092-daae1fbc35ed.png)
-![스크린샷 2022-07-12 오후 2 26 58](https://user-images.githubusercontent.com/96170774/178417660-69c36b7f-c24e-43e8-add3-b5fcd2126997.png)
-![스크린샷 2022-07-12 오후 2 27 12](https://user-images.githubusercontent.com/96170774/178417662-d6b284d5-ca4c-471c-8852-944c25f18788.png)
+
+<h3>파일 구조 </h3>
+![스크린샷 2022-07-12 오후 2 20 35](https://user-images.githubusercontent.com/96170774/178418247-1caf2244-59ef-4999-9b3f-d09c7db8aee1.png)
+
+![스크린샷 2022-07-12 오후 2 20 25](https://user-images.githubusercontent.com/96170774/178417920-1107ef69-a7a9-4dd9-aeb3-89c93dd2920f.png)
+
+![스크린샷 2022-07-12 오후 2 55 51](https://user-images.githubusercontent.com/96170774/178418866-e743f466-2bf8-49a4-9da0-108de739a265.png)
+
+
+pages 
+  - event 
+      - :pontier
+
+components
+  - index.vue
+  - ProntierRegist.vue
+  - ProntierList.vue
+
+layouts
+  - event-layout.vue
+
+Url 구조 
+<ul>
+  <li>https://********.com/event/prontier</li>
+  <li>https://********.com/event/regist</li>
+  <li>https://********.com/event/regist-list</li>
+</ul>
+
