@@ -31,7 +31,15 @@
 
 <hr>
 
+<h2>index.vue</h2>
+
+![screencapture-local-quizrix-event-prontier-2022-07-12-15_01_58](https://user-images.githubusercontent.com/96170774/178421429-26799731-862a-49d8-814f-481ff70986cc.png)
+
+
 <h2> ProntierRegist.vue </h2>
+
+![screencapture-local-quizrix-event-regist-2022-07-12-15_02_09](https://user-images.githubusercontent.com/96170774/178421463-269a7bad-1453-4d89-8daa-df9b42d03ca8.png)
+
 
 ![스크린샷 2022-07-12 오후 2 22 41](https://user-images.githubusercontent.com/96170774/178419872-55cc3044-0437-4147-9ffa-4b47a01e14e7.png)
 
@@ -62,6 +70,8 @@
 
 <h2> ProntierList.vue </h2>
 <p>Regist 완료된 정보들을 api 호출로 데이터 리스트업</p>
+
+![screencapture-local-quizrix-event-regist-list-2022-07-12-15_02_23](https://user-images.githubusercontent.com/96170774/178421884-da09592e-a0a6-4910-8303-54547941985a.png)
 
 ![스크린샷 2022-07-12 오후 2 26 46](https://user-images.githubusercontent.com/96170774/178421217-29ae3133-ce29-40f3-a99e-c78830de444b.png)
 
